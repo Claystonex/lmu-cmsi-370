@@ -1,0 +1,17 @@
+
+  
+h1{
+    float: left;
+    margin: 15px;
+    margin-bottom: 100px;
+    top:0;
+    position: absolute;
+}
+  
+h2,h3,h4{
+    float: right;
+    margin: 15px;
+    margin-bottom: 10px; 
+    top:0;
+    position: relative;
+}

@@ -1,0 +1,11 @@
+.Search{
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    padding-top: 50px;
+    width: 75%;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    opacity: 0.2;
+    
+  }
